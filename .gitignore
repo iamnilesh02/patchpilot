@@ -1,0 +1,22 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Benchmark artifacts & workspaces
+.temp_benchmark_suite/
+temp_benchmark_workspace/
+
+# Environments & secrets
+.env
+*.env
+.venv/
+venv/
+ENV/
+
+# OS / Editor specific
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
